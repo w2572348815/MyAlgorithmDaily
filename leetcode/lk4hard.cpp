@@ -1,10 +1,12 @@
 /*
- * @Author: error: git config user.name && git config user.email & please set dead value or install git
- * @Date: 2022-09-21 17:44:18
+ * @Author: 武家豪&&2572348815@qq.com
+ * @Date: 2022-09-25 19:00:17
  * @LastEditors: wujiahao 2572348815@qq.com
- * @LastEditTime: 2022-09-25 17:35:05
- * @FilePath: \cc\lk4hard.cpp
- * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
+ * @LastEditTime: 2022-09-26 22:16:32
+ * @FilePath: \MyAlgorithmDaily\leetcode\lk4hard.cpp
+ * @Description: 
+ * 
+ * Copyright (c) 2022 by wujiahao 2572348815@qq.com, All Rights Reserved. 
  */
 #include<iostream>
 #include<vector>
@@ -103,5 +105,5 @@ public:
         }
 	return res;
 	}
-	//asd
+	
 };

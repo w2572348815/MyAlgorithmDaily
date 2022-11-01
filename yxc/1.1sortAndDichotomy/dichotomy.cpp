@@ -2,9 +2,9 @@
  * @Author: wujiahao 2572348815@qq.com
  * @Date: 2022-10-23 13:24:39
  * @LastEditors: wujiahao 2572348815@qq.com
- * @LastEditTime: 2022-10-23 13:47:15
- * @FilePath: \MyAlgorithmDaily\yxc\1.1sortAndDichotomy\dichotomy.cpp
- * @Description: 
+ * @LastEditTime: 2022-10-31 19:19:44
+ * @FilePath: \MyAlgorithmDaily\yxc\1.1SortAndDichotomy\dichotomy.cpp
+ * @Description: 二分法 时间logN
  * 
  * Copyright (c) 2022 by wujiahao 2572348815@qq.com, All Rights Reserved. 
  */

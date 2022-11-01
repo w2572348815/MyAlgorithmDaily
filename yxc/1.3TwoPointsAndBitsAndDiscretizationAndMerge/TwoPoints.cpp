@@ -2,9 +2,9 @@
  * @Author: wujiahao 2572348815@qq.com
  * @Date: 2022-10-25 08:48:12
  * @LastEditors: wujiahao 2572348815@qq.com
- * @LastEditTime: 2022-10-25 17:53:24
- * @FilePath: \MyAlgorithmDaily\yxc\1.2HighPrecisionAndQianZhuiHeAndChaFen\TwoPoints.cpp
- * @Description: 
+ * @LastEditTime: 2022-10-31 19:23:09
+ * @FilePath: \MyAlgorithmDaily\yxc\1.3TwoPointsAndBitsAndDiscretizationAndMerge\TwoPoints.cpp
+ * @Description: 双指针算法
  * 
  * Copyright (c) 2022 by wujiahao 2572348815@qq.com, All Rights Reserved. 
  */

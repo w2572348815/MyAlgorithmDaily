@@ -4,7 +4,7 @@
  * @LastEditors: wujiahao 2572348815@qq.com
  * @LastEditTime: 2022-10-22 18:37:17
  * @FilePath: \MyAlgorithmDaily\yxc\quick_sort.cpp
- * @Description: 
+ * @Description: 快排 时间NlogN 空间logN
  * 
  * Copyright (c) 2022 by wujiahao 2572348815@qq.com, All Rights Reserved. 
  */

@@ -4,7 +4,7 @@
  * @LastEditors: wujiahao 2572348815@qq.com
  * @LastEditTime: 2022-10-22 19:00:03
  * @FilePath: \MyAlgorithmDaily\yxc\1.1sortAndDichotomy\merge_sort.cpp
- * @Description: 
+ * @Description: 归并排序 时间NlogN 空间logN
  * 
  * Copyright (c) 2022 by wujiahao 2572348815@qq.com, All Rights Reserved. 
  */

@@ -4,7 +4,8 @@
     ],
     "files.associations": {
         "unordered_map": "cpp",
-        "vector": "cpp"
+        "vector": "cpp",
+        "iostream": "cpp"
     },
     "C_Cpp.errorSquiggles": "Enabled"
 }

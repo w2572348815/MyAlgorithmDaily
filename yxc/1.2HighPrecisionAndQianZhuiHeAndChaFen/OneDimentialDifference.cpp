@@ -2,9 +2,9 @@
  * @Author: wujiahao 2572348815@qq.com
  * @Date: 2022-10-23 15:37:34
  * @LastEditors: wujiahao 2572348815@qq.com
- * @LastEditTime: 2022-10-23 17:47:02
+ * @LastEditTime: 2022-10-31 19:21:14
  * @FilePath: \MyAlgorithmDaily\yxc\1.2HighPrecisionAndQianZhuiHeAndChaFen\OneDimentialDifference.cpp
- * @Description: 
+ * @Description: 一维差分
  * 
  * Copyright (c) 2022 by wujiahao 2572348815@qq.com, All Rights Reserved. 
  */

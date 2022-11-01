@@ -2,9 +2,9 @@
  * @Author: wujiahao 2572348815@qq.com
  * @Date: 2022-10-23 15:06:51
  * @LastEditors: wujiahao 2572348815@qq.com
- * @LastEditTime: 2022-10-23 15:33:12
+ * @LastEditTime: 2022-10-31 19:21:26
  * @FilePath: \MyAlgorithmDaily\yxc\1.2HighPrecisionAndQianZhuiHeAndChaFen\PartMatrixSum.cpp
- * @Description: 
+ * @Description: 二维前缀和
  * 
  * Copyright (c) 2022 by wujiahao 2572348815@qq.com, All Rights Reserved. 
  */

@@ -4,7 +4,7 @@
  * @LastEditors: wujiahao 2572348815@qq.com
  * @LastEditTime: 2022-10-23 15:04:34
  * @FilePath: \MyAlgorithmDaily\yxc\1.2HighPrecisionAndQianZhuiHeAndChaFen\LToRSum.cpp
- * @Description: 
+ * @Description: 一维前缀和
  * 
  * Copyright (c) 2022 by wujiahao 2572348815@qq.com, All Rights Reserved. 
  */

@@ -2,9 +2,9 @@
  * @Author: wujiahao 2572348815@qq.com
  * @Date: 2022-11-05 10:19:01
  * @LastEditors: wujiahao 2572348815@qq.com
- * @LastEditTime: 2022-11-09 15:31:49
- * @FilePath: \MyAlgorithmDaily\yxc\3.2TheShortestWay\SPFAFuHuan.cpp
- * @Description: 
+ * @LastEditTime: 2022-11-11 17:07:10
+ * @FilePath: \MyAlgorithmDaily\yxcJiChu\3.2TheShortestWay\SPFAFuHuan.cpp
+ * @Description: spfa找负环
  * 
  * Copyright (c) 2022 by wujiahao 2572348815@qq.com, All Rights Reserved. 
  */

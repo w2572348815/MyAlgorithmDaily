@@ -1,3 +1,13 @@
+/*
+ * @Author: wujiahao 2572348815@qq.com
+ * @Date: 2022-11-11 08:23:30
+ * @LastEditors: wujiahao 2572348815@qq.com
+ * @LastEditTime: 2022-11-11 17:02:27
+ * @FilePath: \MyAlgorithmDaily\yxcJiChu\3.3TheMinTreeAndBinGraph\BinGraph.cpp
+ * @Description: 染色法判断是否是二分图
+ * 
+ * Copyright (c) 2022 by wujiahao 2572348815@qq.com, All Rights Reserved. 
+ */
 #include<iostream>
 #include<cstring>
 #include<algorithm>

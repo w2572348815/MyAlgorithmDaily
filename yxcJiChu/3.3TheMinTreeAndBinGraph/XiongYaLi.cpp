@@ -2,9 +2,9 @@
  * @Author: wujiahao 2572348815@qq.com
  * @Date: 2022-11-11 13:24:58
  * @LastEditors: wujiahao 2572348815@qq.com
- * @LastEditTime: 2022-11-11 16:46:32
- * @FilePath: \MyAlgorithmDaily\yxc\3.3TheMinTreeAndBinGraph\XiongYaLi.cpp
- * @Description: 
+ * @LastEditTime: 2022-11-11 17:03:51
+ * @FilePath: \MyAlgorithmDaily\yxcJiChu\3.3TheMinTreeAndBinGraph\XiongYaLi.cpp
+ * @Description: 匈牙利算法，在二分图中找最大匹配数
  * 
  * Copyright (c) 2022 by wujiahao 2572348815@qq.com, All Rights Reserved. 
  */

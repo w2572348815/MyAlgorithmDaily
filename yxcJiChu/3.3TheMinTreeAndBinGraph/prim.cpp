@@ -2,9 +2,9 @@
  * @Author: wujiahao 2572348815@qq.com
  * @Date: 2022-11-10 15:26:17
  * @LastEditors: wujiahao 2572348815@qq.com
- * @LastEditTime: 2022-11-10 20:18:39
- * @FilePath: \MyAlgorithmDaily\yxc\3.3TheMinTreeAndBinGraph\prim.cpp
- * @Description: 
+ * @LastEditTime: 2022-11-11 17:03:27
+ * @FilePath: \MyAlgorithmDaily\yxcJiChu\3.3TheMinTreeAndBinGraph\prim.cpp
+ * @Description: 稠密图找最小生成树
  * 
  * Copyright (c) 2022 by wujiahao 2572348815@qq.com, All Rights Reserved. 
  */

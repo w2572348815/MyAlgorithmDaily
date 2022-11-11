@@ -2,9 +2,9 @@
  * @Author: wujiahao 2572348815@qq.com
  * @Date: 2022-11-04 16:25:04
  * @LastEditors: wujiahao 2572348815@qq.com
- * @LastEditTime: 2022-11-09 15:29:47
- * @FilePath: \MyAlgorithmDaily\yxc\3.2TheShortestWay\DijkstraCommon.cpp
- * @Description: 
+ * @LastEditTime: 2022-11-11 17:05:03
+ * @FilePath: \MyAlgorithmDaily\yxcJiChu\3.2TheShortestWay\DijkstraCommon.cpp
+ * @Description: 图中找到根节点的最小距离
  * 
  * Copyright (c) 2022 by wujiahao 2572348815@qq.com, All Rights Reserved. 
  */

@@ -2,9 +2,9 @@
  * @Author: wujiahao 2572348815@qq.com
  * @Date: 2022-11-10 20:47:41
  * @LastEditors: wujiahao 2572348815@qq.com
- * @LastEditTime: 2022-11-11 08:23:02
- * @FilePath: \MyAlgorithmDaily\yxc\3.3TheMinTreeAndBinGraph\kruskal.cpp
- * @Description: 
+ * @LastEditTime: 2022-11-11 17:03:10
+ * @FilePath: \MyAlgorithmDaily\yxcJiChu\3.3TheMinTreeAndBinGraph\kruskal.cpp
+ * @Description: 稀疏图找最小生成树
  * 
  * Copyright (c) 2022 by wujiahao 2572348815@qq.com, All Rights Reserved. 
  */

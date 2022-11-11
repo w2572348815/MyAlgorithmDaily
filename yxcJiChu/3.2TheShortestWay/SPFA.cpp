@@ -2,9 +2,9 @@
  * @Author: wujiahao 2572348815@qq.com
  * @Date: 2022-11-05 09:41:33
  * @LastEditors: wujiahao 2572348815@qq.com
- * @LastEditTime: 2022-11-09 15:31:17
- * @FilePath: \MyAlgorithmDaily\yxc\3.2TheShortestWay\SPFA.cpp
- * @Description: 
+ * @LastEditTime: 2022-11-11 17:06:38
+ * @FilePath: \MyAlgorithmDaily\yxcJiChu\3.2TheShortestWay\SPFA.cpp
+ * @Description: 可找有负权边的最短路
  * 
  * Copyright (c) 2022 by wujiahao 2572348815@qq.com, All Rights Reserved. 
  */

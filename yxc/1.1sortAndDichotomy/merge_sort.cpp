@@ -2,10 +2,10 @@
  * @Author: wujiahao 2572348815@qq.com
  * @Date: 2022-10-22 18:48:57
  * @LastEditors: wujiahao 2572348815@qq.com
- * @LastEditTime: 2022-10-22 19:00:03
- * @FilePath: \MyAlgorithmDaily\yxc\1.1sortAndDichotomy\merge_sort.cpp
+ * @LastEditTime: 2022-11-11 14:56:13
+ * @FilePath: \MyAlgorithmDaily\yxc\1.1SortAndDichotomy\merge_sort.cpp
  * @Description: 归并排序 时间NlogN 空间logN
- * 
+ * L == R 在归并里也行
  * Copyright (c) 2022 by wujiahao 2572348815@qq.com, All Rights Reserved. 
  */
 #include<iostream>

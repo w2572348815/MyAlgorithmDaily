@@ -2,8 +2,8 @@
  * @Author: wujiahao 2572348815@qq.com
  * @Date: 2022-10-22 17:12:16
  * @LastEditors: wujiahao 2572348815@qq.com
- * @LastEditTime: 2022-10-22 18:37:17
- * @FilePath: \MyAlgorithmDaily\yxc\quick_sort.cpp
+ * @LastEditTime: 2022-12-18 17:29:53
+ * @FilePath: \MyAlgorithmDaily\yxcJiChu\1.1SortAndDichotomy\quick_sort.cpp
  * @Description: 快排 时间NlogN 空间logN
  * 
  * Copyright (c) 2022 by wujiahao 2572348815@qq.com, All Rights Reserved. 
@@ -51,8 +51,8 @@ void quick_sort2(int a[],int L,int R){
 
 }
 int main(){
-    int a[15] = {1,2,3,12,3,42,123,123,12,43,65,90};
-    for(int i = 0;i<12;i++){
+    int a[15] = {2, 3, 5, 6, 5};
+    for(int i = 0;i<5;i++){
         cout<<a[i]<<" ";
     }
     cout<<endl;

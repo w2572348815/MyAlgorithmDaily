@@ -5,6 +5,20 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "type": "java",
+            "name": "GetBMI",
+            "request": "launch",
+            "mainClass": "MySBCode.GetBMI",
+            "projectName": "MyAlgorithmDaily_26fef28d"
+        },
+        {
+            "type": "java",
+            "name": "Test",
+            "request": "launch",
+            "mainClass": "MySBCode.Test",
+            "projectName": "MyAlgorithmDaily_26fef28d"
+        },
+        {
             "name": "g++.exe - 生成和调试活动文件",
             "type": "cppdbg",
             "request": "launch",

@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Dmo2",
+            "request": "launch",
+            "mainClass": "MySBCode.Dmo2",
+            "projectName": "MyAlgorithmDaily_26fef28d"
+        },
+        {
+            "type": "java",
+            "name": "Dmo1",
+            "request": "launch",
+            "mainClass": "MySBCode.Dmo1",
+            "projectName": "MyAlgorithmDaily_26fef28d"
+        },
+        {
+            "type": "java",
             "name": "GetBMI",
             "request": "launch",
             "mainClass": "MySBCode.GetBMI",

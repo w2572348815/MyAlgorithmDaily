@@ -1,43 +1,48 @@
 #include<iostream>
-#include<set>
-#include<vector>
-#include<algorithm>
+#include<cstring>
 
 using namespace std;
 
-int main(){
-    int n;
-    cin >> n;
-    vector<set<int>> v;
-    for(int i = 0 ; i < n ; i ++ ){
-        int k;
-        set<int > s;
-        cin >> k;
-        int a;
-        while(k--){
-            cin >> a;
-            s.insert(a);
-        }
-        v.push_back(s);
+const int N = 1010;
+struct a{
+    int x,y,k,c;
+}country[N];
+int n;
+typedef long long LL;
+LL f[N];
+
+int main()
+{
+    scanf("%d",&n);
+    for(int i = 1 ; i <= n ; i ++ )
+    {
+        int a,b;
+        scanf("%d%d",&a,&b);
+        country[i].x = a , country[i].y = b;
     }
-	
-	int k;
-	cin >> k;
-	while(k--){
-            int e , q;
-            cin >> e >> q;
-            int sum = v[e - 1].size() + v[q - 1].size();
-            set<int > s;
-            set_intersection(begin(v[e - 1]) , end(v[e - 1]) ,
-                    begin(v[q - 1]) , end(v[q - 1]),inserter(s,s.begin()));
-                    for(int i : s){
-                        cout << i << ' ';
-                    }
-                    cout << endl;
-            int num = s.size();
-            sum -= num;
-            float w = num * 1.0 / sum * 100;
-            printf("%.2f%%\n",w);
+
+    for(int i = 1 ; i <= n ; i ++ )scanf("%d",&country[i].c);
+    for(int i = 1 ; i <= n ; i ++ )scanf("%d",country[i].k);
+    memset(f,0x3f,sizeof f);
+    f[0] = 0;
+    for(int i = 1 ; i <= n ; i ++ )
+    {
+        for(int j = 0 ; j < 2 ; j ++ )
+        {
+            if(!j)
+            {
+                f[i] = min(f[i] , f[i - 1] + country[i].c);
+            }
+            else
+            {
+                for(int k = 1 ; k <= i ; k ++ )
+                {
+                    LL sum = abs((country[i].x - country[k].x) + abs(country[i].y - country[k].y))*country[i].c;
+                    f[i] = min(f[i] , f[i - 1] + sum);
+                }
+            }
         }
-    
+    }
+    cout << f[n];
+    return 0;
 }
